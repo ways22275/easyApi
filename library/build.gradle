@@ -58,9 +58,9 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.matteomacri18'
-                artifactId = 'library-medium'
-                version = '1.0'
+                groupId = 'com.github.ways22275'
+                artifactId = 'library'
+                version = '2.0'
             }
         }
     }
